@@ -1,0 +1,1779 @@
+{
+  "events": [
+    {
+      "id": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "title": "CHELIA",
+      "date": "",
+      "emoji": "🏐🏸🎮🎯",
+      "desc": "Halo Yosukans!\n\nTerima kasih atas antusiasme dan kesabaran kalian untuk menunggu event Chelia tahun ini!\n\nAyo, bantu kami menjadikan kegiatan kali ini lebih seru dan bermakna untuk kalian dengan mengisi Speak and shape berikut yaa.\n\nTulis keinginan, pendapat, dan saran kalian tentang apa yang haru kami lakukan Untuk event CHELIA nanti\n\nsilahkan jawab pertanyaan-pertanyaan dibawah ini dan berikan saran untuk kegiatan CHELIA 2026! Dimohon untuk memberikan identitas berupa kelas. Saran mu sangat berharga bagi kami #togetherwegrow",
+      "poster": "",
+      "questionsBefore": [
+        "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+        "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+        "Apa saranmu agar acara berjalan baik?",
+        "Untuk lomba esport nanti game apa yang kamu inginkan?",
+        "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+        "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+        "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?"
+      ],
+      "questions": [
+        "-"
+      ],
+      "open": true,
+      "created": 1794222137905
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1f364975-a0c0-45d6-96ef-fabcff014c99",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "yang asik dan seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "dibuat lebih baik dan bagus"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "mobile lenged"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tentang peraturan dibuat lebih sportif"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "buat event yang menarik dan sangat seru seperti menambah supporter"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "tidak adaa karena baru kelas 10"
+        }
+      ],
+      "at": 1794570320224,
+      "reply": ""
+    },
+    {
+      "id": "1c165a57-87eb-4049-ad35-492a8567c900",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "yang asik dan seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "dibuat lebih baik dan bagus"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "mobile lenged"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tentang peraturan dibuat lebih sportif"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "buat event yang menarik dan sangat seru seperti menambah supporter"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "tidak adaa karena baru kelas 10"
+        }
+      ],
+      "at": 1794570317538,
+      "reply": ""
+    },
+    {
+      "id": "cd4b25a5-6736-4205-978e-638ce9b1a997",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "yang asik dan seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "dibuat lebih baik dan bagus"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "mobile lenged"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tentang peraturan dibuat lebih sportif"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "buat event yang menarik dan sangat seru seperti menambah supporter"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "tidak adaa karena baru kelas 10"
+        }
+      ],
+      "at": 1794570315111,
+      "reply": ""
+    },
+    {
+      "id": "273b0928-a4af-4844-8c7c-392868b9f0a5",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411308940,
+      "reply": ""
+    },
+    {
+      "id": "8a21e192-0d58-4dc4-8ab7-6ee29b190e1b",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411307272,
+      "reply": ""
+    },
+    {
+      "id": "90c42c4b-33bd-4346-9689-57e0d545f55a",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411305971,
+      "reply": ""
+    },
+    {
+      "id": "0342a91b-1540-4296-ba86-9b57c6bb5953",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411304166,
+      "reply": ""
+    },
+    {
+      "id": "d37f3339-e52c-49a1-8319-afbde6117253",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411302229,
+      "reply": ""
+    },
+    {
+      "id": "071a61fe-c593-4a4e-84e6-94483a8b49cf",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411300492,
+      "reply": ""
+    },
+    {
+      "id": "c61cba47-cc1e-40ca-ad7e-6c6682d20586",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "basket"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "basket"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "wasitnya dari anak osis aja supaya irit\n\nperaturannya gampang kok"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "stumble guys"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "ke meriahan dan keasikan dan ketegangan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kalau lagi lomba cuman duduk\nsaran aja setiap kelas punya chant masing masing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "ga ada si"
+        }
+      ],
+      "at": 1794411297836,
+      "reply": ""
+    },
+    {
+      "id": "518588ab-ebc4-4def-8bc5-66f9a2544bd9",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga ada lomba yg seru dan asik"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "estafet"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "roblox, ml"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelemahan pembuka / kebanyakan berbicara. klo bisa lebih di matangkan lgi"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408204395,
+      "reply": ""
+    },
+    {
+      "id": "4e904a9d-f975-45d7-87d0-7bf22ca857b8",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408201127,
+      "reply": ""
+    },
+    {
+      "id": "2654655c-b6c3-400c-a88c-8227c328b512",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408199150,
+      "reply": ""
+    },
+    {
+      "id": "7014e12a-7114-4e5e-aae3-bafe3720ee3f",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408197319,
+      "reply": ""
+    },
+    {
+      "id": "600c1e76-9d9c-4aae-a344-153772fa161a",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408194459,
+      "reply": ""
+    },
+    {
+      "id": "61d03134-76ec-488a-b1d5-f12a686f75e1",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408192589,
+      "reply": ""
+    },
+    {
+      "id": "6c2ca3a1-c1c1-4edc-af12-b9308926b2ff",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408190808,
+      "reply": ""
+    },
+    {
+      "id": "68fc45ce-0ace-4169-b69c-d7f0378d00b0",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lebih seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton dan ml"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semoga osis kompak dan jarang miskom"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml, roblox (?), codm"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tata acara, jadwal dan waktu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "kelamaan pembuka atau kebanyakan ngomong, kalau bisa lebih di matangkan dan lebih tau selanjutnya mau gimana"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "sama seperti no 6"
+        }
+      ],
+      "at": 1794408187709,
+      "reply": ""
+    },
+    {
+      "id": "06bf4a77-82d8-4bff-a3aa-7636e7b3e3cf",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "lombanya seru hebat"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton, futsal, basket, ml, voli air"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "osis solid tidak miskom, dan berikan peraturan lomba yang jelas"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "mobile legends"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "melihat keterbatasan peserta tiap kelas"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "duduk sesuai kelas, solusinya dibuat bebas aja duduknya seperti acara open house"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "hadiahnya cuma permen bikin sakit gigi"
+        }
+      ],
+      "at": 1794405574142,
+      "reply": ""
+    },
+    {
+      "id": "793b5771-8965-4afa-a501-98a500071a96",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "lombanya seru hebat"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "badminton, futsal, basket, ml, voli air"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "osis solid tidak miskom, dan berikan peraturan lomba yang jelas"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "mobile legends"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "melihat keterbatasan peserta tiap kelas"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "duduk sesuai kelas, solusinya dibuat bebas aja duduknya seperti acara open house"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "hadiahnya cuma permen bikin sakit gigi"
+        }
+      ],
+      "at": 1794405571858,
+      "reply": ""
+    },
+    {
+      "id": "470a8ff6-41c9-4f0e-85ee-b770e5076e94",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405403718,
+      "reply": ""
+    },
+    {
+      "id": "03452f33-413b-470a-b693-7b2739aaac00",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405401881,
+      "reply": ""
+    },
+    {
+      "id": "c8b09003-df8d-4e75-ab06-0567dcc4b0ef",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405400285,
+      "reply": ""
+    },
+    {
+      "id": "fadbd6af-76f1-48e1-9c12-e1deaf292712",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405398393,
+      "reply": ""
+    },
+    {
+      "id": "8cc08c65-fc39-44d8-a3a6-59567f136854",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405396703,
+      "reply": ""
+    },
+    {
+      "id": "ffa91ff9-feec-4e1a-86c4-b3882c394e93",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405395406,
+      "reply": ""
+    },
+    {
+      "id": "4785b428-72d3-4641-ac31-e20ca599b5ae",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "semoga lomba-lomba nya lancar"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "uji coba sebelum hari-H"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml, ff, 8 ball pool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "mungkin di rundown nya jangan ngaret"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "solusi nya kasih mini game agar suasana nya tidak membosankan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794405392532,
+      "reply": ""
+    },
+    {
+      "id": "cb38ab8b-363f-44a5-811e-21604f2e5f8c",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Yang saya harapkan ada lomba tarik tambang"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "manajemen waktu agar acara berjalan dengan lancar dan tidak terhalang sesuatu."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "game mobile legends."
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Kegiatannya, agar dapat menjadi lebih menarik lagi dan lebih seru lagi."
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "bisa di tambah berikan tanya jawab kepada teman² yang lain biar lebih seru dan menarik lagi."
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794404635601,
+      "reply": ""
+    },
+    {
+      "id": "139cfdf1-76d6-4fe3-8880-b1076fdc9193",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Yang saya harapkan ada lomba tarik tambang"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Tarik tambang"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "manajemen waktu agar acara berjalan dengan lancar dan tidak terhalang sesuatu."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "game mobile legends."
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Kegiatannya, agar dapat menjadi lebih menarik lagi dan lebih seru lagi."
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "bisa di tambah berikan tanya jawab kepada teman² yang lain biar lebih seru dan menarik lagi."
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794404632178,
+      "reply": ""
+    },
+    {
+      "id": "2d0c50ed-d94c-4771-8497-bcfe76f4e90c",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Asik asik, dan membuat kelas semakin solid"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Balap Karung tapi berdua"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Rundown acara yang jelas dan teratur"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Mobile Legends"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Jadwal dalam rundown acara acara tidak berantakan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Event nya kurang menarik untuk ditonton, sehingga reaksi penonton juga kurang memuaskan"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "So far belum ada"
+        }
+      ],
+      "at": 1794404384466,
+      "reply": ""
+    },
+    {
+      "id": "1ff7f59f-e37b-409c-869d-190e48a18000",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Semoga lomba lomba nya berjalan lancar, dan kita bisa menikmati tanpa terjadi persaingan yg tidak sehat antar kelas"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Aku sih mau lomba apa aja yang penting bisa dinikmati bersama"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Mungkin anak kelas masing masing menyiapkan yel yel untuk kelas nya masing masing, dan di gunakan saat menyemangati anggota kelas nya yg sedang lomba."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ML"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Belum ada sejauh ini"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Kadang karena mc yang hanya melakukan hal yang berulang ulang di setiap even."
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794403891214,
+      "reply": ""
+    },
+    {
+      "id": "a7a8ffbd-cf19-4db2-bea4-e0eb6bc3bdd8",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Semoga lomba lomba nya berjalan lancar, dan kita bisa menikmati tanpa terjadi persaingan yg tidak sehat antar kelas"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Aku sih mau lomba apa aja yang penting bisa dinikmati bersama"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Mungkin anak kelas masing masing menyiapkan yel yel untuk kelas nya masing masing, dan di gunakan saat menyemangati anggota kelas nya yg sedang lomba."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ML"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Belum ada sejauh ini"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Kadang karena mc yang hanya melakukan hal yang berulang ulang di setiap even."
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Tidak ada"
+        }
+      ],
+      "at": 1794403886095,
+      "reply": ""
+    },
+    {
+      "id": "2929a69d-86f4-41cf-93ca-c98f6f94cf90",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Di lomba ini kalau bisa aturannya lebih diperketat dan kalau ada yang curang langsung kena peringatan ga diem diem doang."
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "1.Estafet spon air\n2.Pesawat terbang (orang tengkurep di sarung yang diangkat sm 4 org lain)"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Mentornya lbih baik lg komunikasinyaa"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "waktuuu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "jeda antar lomba atau penampilan. Sebaiknya MC lebih aktif mencairkan suasana dengan games singkat atau obrolan ringan selama persiapan panggung berlangsung."
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "alur acara sebelumnya sempat terasa lambat dan kurang bersemangat jadi bikin ngantuk"
+        }
+      ],
+      "at": 1794403786024,
+      "reply": ""
+    },
+    {
+      "id": "aaf1cbc1-91bb-42b0-acfa-d4aa961aebd1",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Di lomba ini kalau bisa aturannya lebih diperketat dan kalau ada yang curang langsung kena peringatan ga diem diem doang."
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "1.Estafet spon air\n2.Pesawat terbang (orang tengkurep di sarung yang diangkat sm 4 org lain)"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Mentornya lbih baik lg komunikasinyaa"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ml"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "waktuuu"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "jeda antar lomba atau penampilan. Sebaiknya MC lebih aktif mencairkan suasana dengan games singkat atau obrolan ringan selama persiapan panggung berlangsung."
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "alur acara sebelumnya sempat terasa lambat dan kurang bersemangat jadi bikin ngantuk"
+        }
+      ],
+      "at": 1794403784584,
+      "reply": ""
+    },
+    {
+      "id": "7717ab91-67a1-4fc9-bfca-e58dd0576f89",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Perlombaan esport yang seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "lomba esport, free fire"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "diskualifikasi peserta atau kelas yang melewati batas atau menghina sara saat mendukung tim dalam mengikuti perlombaan esport"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "free fire, mobile legend, 8ballpool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "nilai sportivitas antar siswa yang harus tetap terjaga, baik di kondisi menang atau kalah"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "gaada sih kalau menurut aku"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "gaada sih"
+        }
+      ],
+      "at": 1794403341796,
+      "reply": ""
+    },
+    {
+      "id": "1561a55d-1da0-443b-bfd4-32f064040ff8",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Perlombaan esport yang seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "lomba esport, free fire"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "diskualifikasi peserta atau kelas yang melewati batas atau menghina sara saat mendukung tim dalam mengikuti perlombaan esport"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "free fire, mobile legend, 8ballpool"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "nilai sportivitas antar siswa yang harus tetap terjaga, baik di kondisi menang atau kalah"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "gaada sih kalau menurut aku"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "gaada sih"
+        }
+      ],
+      "at": 1794403337885,
+      "reply": ""
+    },
+    {
+      "id": "2833b023-a84c-4c84-bd08-5d886b3b33a7",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Bakal asik, terus diharapin semoga kelas saya menang"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Lomba band (maybe?)"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Gatau"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Mobile legends sama free fire"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Gatau"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Kurang ada perform, terus solusinya paling kasih performnya lebih agak banyak lgi"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Gatau karna baru masuk SMA"
+        }
+      ],
+      "at": 1794403309907,
+      "reply": ""
+    },
+    {
+      "id": "3b4cfc91-857f-4fe1-8aa7-a84fe2cee8b0",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Bakal asik, terus diharapin semoga kelas saya menang"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Lomba band (maybe?)"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Gatau"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Mobile legends sama free fire"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Gatau"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Kurang ada perform, terus solusinya paling kasih performnya lebih agak banyak lgi"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Gatau karna baru masuk SMA"
+        }
+      ],
+      "at": 1794403307028,
+      "reply": ""
+    },
+    {
+      "id": "fa8293cf-358e-4274-84f8-efe37e405bc1",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Semoga lombanya dapat membangun dinamika antarsiswa di setiap kelas. Lombanya lebih seru dan peraturan-peraturannya pasti dan jelas."
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Kegiatan futsal"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Panitia menyiapkan rencana cadangan. Menyediakan tim kesehatan, karena lomba fisik biasanya rawan cidera."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ML"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Keselamatan semua peserta lomba. Sportivitas dalam lomba (adil dalam menilai)"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "-"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "-"
+        }
+      ],
+      "at": 1794403153624,
+      "reply": ""
+    },
+    {
+      "id": "39e6685c-1110-48f4-84b2-5c48d595a8ba",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Semoga lombanya dapat membangun dinamika antarsiswa di setiap kelas. Lombanya lebih seru dan peraturan-peraturannya pasti dan jelas."
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Kegiatan futsal"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Panitia menyiapkan rencana cadangan. Menyediakan tim kesehatan, karena lomba fisik biasanya rawan cidera."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ML"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Keselamatan semua peserta lomba. Sportivitas dalam lomba (adil dalam menilai)"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "-"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "-"
+        }
+      ],
+      "at": 1794403150035,
+      "reply": ""
+    },
+    {
+      "id": "46a0bbde-96a3-45ac-8a2e-ed5c81203188",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Semoga lombanya dapat membangun dinamika antarsiswa di setiap kelas. Lombanya lebih seru dan peraturan-peraturannya pasti dan jelas."
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Kegiatan futsal"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Panitia menyiapkan rencana cadangan. Menyediakan tim kesehatan, karena lomba fisik biasanya rawan cidera."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ML"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Keselamatan semua peserta lomba. Sportivitas dalam lomba (adil dalam menilai)"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "-"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "-"
+        }
+      ],
+      "at": 1794403148782,
+      "reply": ""
+    },
+    {
+      "id": "4366954e-8d0c-49dc-ba9a-b6a1397dd457",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Semoga lombanya dapat membangun dinamika antarsiswa di setiap kelas. Lombanya lebih seru dan peraturan-peraturannya pasti dan jelas."
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Kegiatan futsal"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Panitia menyiapkan rencana cadangan. Menyediakan tim kesehatan, karena lomba fisik biasanya rawan cidera."
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ML"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Keselamatan semua peserta lomba. Sportivitas dalam lomba (adil dalam menilai)"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "-"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "-"
+        }
+      ],
+      "at": 1794403145415,
+      "reply": ""
+    },
+    {
+      "id": "dc731ee4-d892-4066-ad54-8b3ac7f6a26a",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Seru, semua murid bisa di ajak kerjasama, dan tidak ada yang curang/membuat hati tak nyaman"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "ga ada si, dan saya juga berharap saat saya mengikuti lomba yaitu pribahasa semua anggota bisa di ajak kontribusi dan yang lain tidak melakukan curang, mau murid atau pepunya acara."
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "tidak ada"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "tidak ada"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Anggota osis harus lebih konsisten/memberi arahan secara detail tidak asal-asalan agar acara dapat berjalan dengan lancar"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Suara suka terdengar tidak jelas, solusinya ngomong dengan suara lantang saat menggunakan mic agar suaranya terdengar jelas"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "paling radionya memang suka tidak terdengar jelas dan suasananya ramai jadi bingung mau dengar yang mana."
+        }
+      ],
+      "at": 1794402923963,
+      "reply": ""
+    },
+    {
+      "id": "0e60120c-9f96-4dbe-8b57-f65e8b786035",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Lomba lomba yang seru dan asik"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Esport (ml)"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Pengarahan dari mentor yang lebih jelas"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Ml,ff"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Pengawasan dari mentor"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Menunggu"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Event nya kecepatan"
+        }
+      ],
+      "at": 1794267417435,
+      "reply": "makasih nya sudah menjawab dan memberikan saran 😊😊",
+      "replyAt": 1794274059555
+    },
+    {
+      "id": "20aae7d9-d4c9-4e48-9aa8-39d9603d1a5e",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "Saya Blm tahu Ini"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "Tidak Mau ini"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "Sangat Sulit memuliakan Ini"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "Tidak Diselenggarakan  Mudahan Terusan Selamanya"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "Sebenarnya Sekalian Terhambat Disesuaikan Lemah"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "Suatu Yang Terelakkan Semua Terhubung"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "Lemu kan  Dijelaskan Berharap Dia Sebelum Ini Dari Fakta"
+        }
+      ],
+      "at": 1794265494758,
+      "reply": "maaf kami tidak mengerti dengan masukan anda mungkin bisa isi lagi nya",
+      "replyAt": 1794274240841
+    },
+    {
+      "id": "16f86c9a-fba0-484d-92f8-e2bf9f386b62",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "seru"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "apapun deh"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "semangat"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ff, Ml (brawl no push), 8 ball poll"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "pesertanya, agar tidak bosan"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "mcnya garing"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "osisnya sok garang"
+        }
+      ],
+      "at": 1794263599213,
+      "reply": "makasih atas saran dan masukan nya kami akan mencoba yang terbaik dalam event chelia 2026 ini",
+      "replyAt": 1794274152248
+    },
+    {
+      "id": "bb7f4dc8-352f-474d-a737-5bcba5afb1c0",
+      "eventId": "3f86da2e-19e0-4897-bdd3-19ce4bf7e84a",
+      "phase": "before",
+      "answers": [
+        {
+          "q": "Apa yang kamu harapkan dari lomba-lomba acara CHELIA nanti?",
+          "a": "ya harapan saya, semoga kita lebih menikmati setiap pertandingan"
+        },
+        {
+          "q": "Kegiatan apa yang ingin kamu lihat di event CHELIA dan berikan saran lomba yang kamu ingin ikuti?",
+          "a": "tentunya dengan penuh harapan dari kami kelas 12 terutama para cowok, kami berharap futsal dibikin kembali karena inilah terakhir kami berada di dalam classmeet yos, dan ini bukan sekedar omongan semata, kami sudah sering membicarakan ini di sekolah maupun diluar sekolah, dan dengan ini kami berharap kepada osis yos, terimakasih"
+        },
+        {
+          "q": "Apa saranmu agar acara berjalan baik?",
+          "a": "jangan ada yang nama nya rematch di setiap pertandingan, dan pesan buat osis fokus sama event jangan banyak main hp saat event berlangsung"
+        },
+        {
+          "q": "Untuk lomba esport nanti game apa yang kamu inginkan?",
+          "a": "ff"
+        },
+        {
+          "q": "Menurut kalian, apa hal yang harus lebih di perhatikan dari event CHELIA 2026?",
+          "a": "tolong lebih teliti lagi biar tidak ada yang rematch"
+        },
+        {
+          "q": "Menurutmu, apa yang biasanya membuat suasana di event menjadi terasa membosankan? Berikan solusi yang efektif!",
+          "a": "-"
+        },
+        {
+          "q": "Apa hal yang membuat kalian kecewa di event sebelumnya dan tidak ingin terulang di event CHELIA?",
+          "a": "adanya rematch"
+        }
+      ],
+      "at": 1794237092596,
+      "reply": "terimakasih saran dan masukan akan kami coba terapkan semua saran dan masukan ini ke dalam event chelia",
+      "replyAt": 1794274321944
+    }
+  ],
+  "settings": {
+    "questionsDefault": [
+      "Bagaimana pendapatmu tentang acara ini?",
+      "Apa yang paling kamu sukai?",
+      "Apa yang perlu diperbaiki?",
+      "Apa saranmu untuk acara berikutnya?"
+    ]
+  }
+}

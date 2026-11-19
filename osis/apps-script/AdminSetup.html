@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+  <base target="_top">
+  <meta charset="utf-8">
+  <style>
+    body{font:14px/1.5 Arial,sans-serif;color:#23342c;padding:18px}
+    label{display:block;font-weight:bold;margin:12px 0 5px}
+    input{box-sizing:border-box;width:100%;padding:10px;border:1px solid #b9c5bb;border-radius:6px}
+    button{margin-top:16px;padding:10px 14px;border:0;border-radius:6px;background:#d8b878;font-weight:bold;cursor:pointer}
+    button:disabled{opacity:.6;cursor:wait}
+    #status{min-height:22px;color:#a33}
+  </style>
+</head>
+<body>
+  <h2>Atur akun operator</h2>
+  <p>Akun ini dipakai untuk masuk ke dashboard OSIS. Gunakan kata sandi unik minimal 12 karakter.</p>
+  <form id="setupForm">
+    <label for="email">Email operator</label>
+    <input id="email" type="email" autocomplete="username" required>
+    <label for="password">Kata sandi</label>
+    <input id="password" type="password" minlength="12" autocomplete="new-password" required>
+    <label for="confirmation">Ulangi kata sandi</label>
+    <input id="confirmation" type="password" minlength="12" autocomplete="new-password" required>
+    <p id="status" role="status"></p>
+    <button id="submit" type="submit">Simpan akun operator</button>
+  </form>
+  <script>
+    const setupToken = '<?= setupToken ?>';
+    document.getElementById('setupForm').addEventListener('submit', function (event) {
+      event.preventDefault();
+      const email = document.getElementById('email').value.trim();
+      const password = document.getElementById('password').value;
+      const confirmation = document.getElementById('confirmation').value;
+      const status = document.getElementById('status');
+      const submit = document.getElementById('submit');
+      if (password !== confirmation) {
+        status.textContent = 'Kata sandi tidak sama.';
+        return;
+      }
+      submit.disabled = true;
+      status.textContent = 'Menyimpan akun...';
+      google.script.run
+        .withSuccessHandler(function (message) {
+          status.textContent = message;
+          document.getElementById('setupForm').reset();
+          setTimeout(function () { google.script.host.close(); }, 1200);
+        })
+        .withFailureHandler(function (error) {
+          status.textContent = error.message || 'Akun gagal disimpan.';
+          submit.disabled = false;
+        })
+        .saveAdminFromSetup(setupToken, email, password);
+    });
+  </script>
+</body>
+</html>
